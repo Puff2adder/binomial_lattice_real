@@ -1,0 +1,28 @@
+{
+  "release": "guided-clickable-2026-10-19",
+  "entrypoint": "app.py",
+  "python": "3.13",
+  "deployed": false,
+  "files": {
+    ".gitignore": "708ea5f208a37f4c26f6f9228997b5bab35a2f9042b5c1fa6c933bcee8bd720b",
+    ".streamlit/config.toml": "ba464b4598d4078ac07205fe3228994bc594f633768a93ea0233ac480da454bc",
+    "DEPLOYMENT.md": "ea07668e96049a8731236a0530a68db778561222b757be54d3bc139c852d6b74",
+    "MODEL_NOTES.md": "a993be54f65cf1b27ba677e2d08170e1eaef36743cd3229cb83b74a829593283",
+    "README.md": "32d987b7c0b610a8f2693a5421eac92e5cd63769e7525e76d06a1e6cb59be188",
+    "VALIDATION.md": "c0dbded5341ea4c6e2737b9e4e581337754340249f872022dfd89f93e3b518de",
+    "app.py": "2a4714c12d11902ab64930cd2efc21e39d29ca09faa0cea682bc3f25322820e7",
+    "builder.py": "a14500e2818d1e98ee3c9e0237007d6d53bb60336795a7127b883784b989c1ae",
+    "builder_model.py": "71148a4742aae7dbda00cdb675fea43606fafc4b2a557d880a1fef7676a9c7e4",
+    "calculator.py": "f18ff8358f677fd9bb946782f08de05496a0a14adaafb875f0dcc04151c09a6b",
+    "content.py": "d984005f3708ef7e54472409cfa0f517d722b7b3578a56de8f0e49fe3b15f7c2",
+    "finance.py": "69e9c73a65a780246e85f28f36d72f75bbe42dc76313180e210c5023256d4781",
+    "guided.py": "7db39abaf473d1f3a598fcafc2def83de01ab0c3f60daa7b43f357705b3ad61c",
+    "lattice_component/index.html": "a20d737241a4334cdfa49198c3f81bcc030ddec0714ea65048f11315c9bae7ab",
+    "questions.py": "ca90f3574d52be5e4fd422c7a769f6700b7df27b7ee6d67174752a0194622104",
+    "requirements.txt": "ffc2d10a0a1ceabbba8a5a5d4c54467e70dc387a96944c2474e3436a8e0e07de",
+    "tests/test_app.py": "1acdd831e4946d76cd149c4f2bb6969284f49c3921602fbe8e8f26ad7f58773d",
+    "tests/test_builder.py": "954eaca977fa605fdeafce2033c930c9f21cdfdc5c1b3869f54334f5bf56d07a",
+    "tests/test_european.py": "39b41b317db78647dbc3e2f62cf5671b868ab8437dc24c1b00b451a4d63deca6",
+    "tests/test_finance.py": "49d73e737917a776ccc4c265fc9cb0b7ac939b79fae3c605536af37a70f33e23"
+  }
+}
